@@ -1,2 +1,2 @@
-# Web-NeoVision-
+# NeoVision
 Pagina Web de neovision
